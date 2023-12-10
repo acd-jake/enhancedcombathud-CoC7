@@ -1,0 +1,197 @@
+{
+  "enhancedcombathud-CoC7": {
+    "portraitConfig": {
+      "prepared": {
+        "label": "Prepared Spells",
+        "auto": "Auto Detect",
+        "preparedOnly": "Prepared Only",
+        "all": "All Spells"
+      }
+    },
+    "Settings": {
+      "switchEquip": {
+        "name": "Auto Equip",
+        "hint": "Automatically equip/unequip items when switching sets"
+      },
+      "showWeaponsItems": {
+        "name": "Show Weapons in 'Use Item' Section",
+        "hint": "Show weapons in the 'Use Item' section. Usefull if your weapon slots are not enough"
+      },
+      "showClassActions": {
+        "name": "Show Class Actions",
+        "hint": "Show class actions in the Main Action bars"
+      },
+      "condenseClassActions": {
+        "name": "Condense Class Actions",
+        "hint": "If 'Show Class Actions' is enabled, condense class actions in pairs to save space"
+      },
+      "noAA": {
+        "name": "Don't Apply Active Effects",
+        "hint": "Don't apply active effects when using special actions. (requires refresh)"
+      },
+      "showSpecialActions": {
+        "name": "Show Basic Actions",
+        "hint": "Show basic actions in the Main Action section. (Dodge, Dash, Disengage, Hide, Ready, Shove)"
+      },
+      "ShowSkills": {
+        "name": "Show skills button",
+        "descrp": "If a button for skills should be shown in the action group"
+      }
+    },
+    "hud": {
+      "actions": {
+        "name": "Action"
+      },
+      "useitem": {
+        "name": "Use Item"
+      },
+      "specialaction": {
+        "name": "Free"
+      },
+      "pass": {
+        "name": "Pass"
+      },
+      "endturn": {
+        "name": "End Turn"
+      },
+      "inventory": {
+        "name": "Sheet"
+      },
+      "skills": {
+        "name": "Skills"
+      }
+    },
+    "items": {
+      "SanityCheck": {
+        "name": "Sanity Check",
+        "desc": ""
+      },
+      "LuckCheck": {
+        "name": "Luck Check",
+        "desc": ""
+      },
+      "CthulhuMythosCheck": {
+        "name": "Chtulhu Mythos Check",
+        "desc": ""
+      },
+      "DodgeCheck": {
+        "name": "Dodge Check",
+        "desc": ""
+      },
+      "AcademicSkills": {
+        "name": "Academic Skills",
+        "desc": ""
+      },
+      "ArtCraftSkills": {
+        "name": "Art and Craft Skills",
+        "desc": ""
+      },
+      "AthleticSkills": {
+        "name": "Athletic Skills",
+        "desc": ""
+      },
+      "DeceiveSkills": {
+        "name": "Deceive Skills",
+        "desc": ""
+      },
+      "MedicalSkills": {
+        "name": "Medical Skills",
+        "desc": ""
+      },
+      "NatureTransportSkills": {
+        "name": "Nature and Transport Skills",
+        "desc": ""
+      },
+      "NoticeSkills": {
+        "name": "Notice Skills",
+        "desc": ""
+      },
+      "PsychologySkills": {
+        "name": "Psychological Skills",
+        "desc": ""
+      },
+      "ResearchSkills": {
+        "name": "Research Skills",
+        "desc": ""
+      },
+      "ScienceSkills": {
+        "name": "Science Skills",
+        "desc": ""
+      },
+      "SocialSkills": {
+        "name": "Social Skills",
+        "desc": ""
+      },
+      "StealthSkills": {
+        "name": "Stealth Skills",
+        "desc": ""
+      },
+      "TechnologySkills": {
+        "name": "Technological Skills",
+        "desc": ""
+      }
+    },
+    "types": {
+      "item": {
+        "item": "Use Item",
+        "weapon": "Use Weapon"
+      }
+    },
+    "CHARAC": {
+      "STR": {
+        "tooltip": "<p>Strength measures bodily power, athletic training, and the extent to which you can exert raw physical force.</p><p><strong>Strength Checks</strong><br/>A Strength check can model any attempt to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation. The Athletics skill reflects aptitude in certain kinds of Strength checks.</p><p><strong>Other Strength Checks</strong><br/>The DM might also call for a Strength check when you try to accomplish tasks like the following:<ul><li>Force open a stuck, locked, or barred door</li><li>Break free of bonds</li><li>Push through a tunnel that is too small</li><li>Hang on to a wagon while being dragged behind it</li><li>Tip over a statue</li><li>Keep a boulder from rolling</li></ul></p><p><strong>Lifting and Carrying</strong><br/> Your Strength score determines the amount of weight you can bear. The following terms define what you can lift or carry.</p><p><strong>Carrying Capacity.</strong> Your carrying capacity is your Strength score multiplied by 15. This is the weight (in pounds) that you can carry, which is high enough that most characters don't usually have to worry about it.</p><p><strong>Push, Drag, or Lift.</strong> You can push, drag, or lift a weight in pounds up to twice your carrying capacity (or 30 times your Strength score). While pushing or dragging weight in excess of your carrying capacity, your speed drops to 5 feet.</p><p><strong>Size and Strength.</strong> Larger creatures can bear more weight, whereas Tiny creatures can carry less. For each size category above Medium, double the creature's carrying capacity and the amount it can push, drag, or lift. For a Tiny creature, halve these weights.</p>"
+      },
+      "CON": {
+        "tooltip": "<p>Constitution measures health, stamina, and vital force.</p><p><strong>Constitution Checks</strong><br/>Constitution checks are uncommon, and no skills apply to Constitution checks, because the endurance this ability represents is largely passive rather than involving a specific effort on the part of a character or monster. A Constitution check can model your attempt to push beyond normal limits, however.</p><p>The DM might call for a Constitution check when you try to accomplish tasks like the following:<ul><li>Hold your breath</li><li>March or labor for hours without rest</li><li>Go without sleep</li><li>Survive without food or water</li><li>Quaff an entire stein of ale in one go</li></ul></p><p><strong>Hit Points</strong><br/>Your Constitution modifier contributes to your hit points. Typically, you add your Constitution modifier to each Hit Die you roll for your hit points.</p><p>If your Constitution modifier changes, your hit point maximum changes as well, as though you had the new modifier from 1st level. For example, if you raise your Constitution score when you reach 4th level and your Constitution modifier increases from +1 to +2, you adjust your hit point maximum as though the modifier had always been +2. So you add 3 hit points for your first three levels, and then roll your hit points for 4th level using your new modifier. Or if you're 7th level and some effect lowers your Constitution score so as to reduce your Constitution modifier by 1, your hit point maximum is reduced by 7.</p>"
+      },
+      "SIZ": {
+        "tooltip": ""
+      },
+      "DEX": {
+        "tooltip": "<p>Dexterity measures agility, reflexes, and balance.</p><p><strong>Dexterity Checks</strong><br/>A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing. The Acrobatics, Sleight of Hand, and Stealth skills reflect aptitude in certain kinds of Dexterity checks.</p><p><strong>Other Dexterity Checks</strong><br/>The DM might call for a Dexterity check when you try to accomplish tasks like the following:<ul><li>Control a heavily laden cart on a steep descent</li><li>Steer a chariot around a tight turn</li><li>Pick a lock</li><li>Disable a trap</li><li>Securely tie up a prisoner</li><li>Wriggle free of bonds</li><li>Play a stringed instrument</li><li>Craft a small or detailed object</li></ul></p><p><strong>Armor Class</strong><br/>Depending on the armor you wear, you might add some or all of your Dexterity modifier to your Armor Class, as described in chapter 5, <a class='entity-link' data-pack='dnd5e.rules' data-id='ln4KF7662eP93keD'>Equipment.</a></p><p><strong>Initiative</strong><br/>At the beginning of every combat, you roll initiative by making a Dexterity check. Initiative determines the order of creatures' turns in combat, as described in chapter 9, <a class='entity-link' data-pack='dnd5e.rules' data-id='3V8ywGHQEpbZpsIL'>Combat.</a>"
+      },
+      "APP": {
+        "tooltip": ""
+      },
+      "INT": {
+        "tooltip": "<p>Intelligence measures mental acuity, accuracy of recall, and the ability to reason.</p><p><strong>Intelligence Checks</strong><br/>An Intelligence check comes into play when you need to draw on logic, education, memory, or deductive reasoning. The Arcana, History, Investigation, Nature, and Religion skills reflect aptitude in certain kinds of Intelligence checks.</p><p><strong>Other Intelligence Checks</strong><br/>The DM might call for an Intelligence check when you try to accomplish tasks like the following:<ul><li>Communicate with a creature without using words</li><li>Estimate the value of a precious item</li><li>Pull together a disguise to pass as a city guard</li><li>Forge a document</li><li>Recall lore about a craft or trade</li><li>Win a game of skill</li></ul></p>"
+      },
+      "POW": {
+        "tooltip": ""
+      },
+      "EDU": {
+        "tooltip": ""
+      }
+    },
+    "tooltip": {
+      "target": {
+        "name": "Target"
+      },
+      "range": {
+        "name": "Range"
+      },
+      "properties": {
+        "name": "Properties"
+      },
+      "toHit": {
+        "name": "To Hit"
+      },
+      "damage": {
+        "name": "Damage"
+      }
+    },
+    "skillProperties": {
+      "push": "Push",
+      "special": "Special",
+      "firearm": "Firearm",
+      "fighting": "Fighting",
+      "combat": "Fight",
+      "noadjustments": "No Adjustments",
+      "noxpgain": "No XP-Gain",
+      "requiresname": "Requires Name",
+      "keepbasevalue": "Keep Base Value",
+      "onlyone": "Only One",
+      "picknameonly": "Pick Name Only"
+    }
+  }
+}

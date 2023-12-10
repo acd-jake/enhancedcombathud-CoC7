@@ -1,0 +1,20 @@
+<div class="action-element ech-blur">
+	{{#if hasQuantity}}
+	<div class="quantity-1">
+		<div class="border-triangle"></div>
+		<span>
+			{{quantity}}
+		</span>
+	</div>
+	{{/if}}
+	{{#if hasAmmo}}
+	<div class="reload">
+		<div class="border-triangle"></div>
+		<span>
+			<a class="reload-weapon" title="Links-/Rechtsklick: 1 Kugel hinzufügen/entfernen
+              Shift + Links-/Rechtsklick: Nachladen/Entladen"><i class="game-icon game-icon-chaingun"></i></a>
+		</span>
+	</div>
+	{{/if}}
+	<span class="action-element-title">{{{localize label}}}</span>
+</div>

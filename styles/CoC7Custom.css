@@ -1,0 +1,77 @@
+.action-hud .reload {
+    align-items: center;
+    display: flex;
+    font-size: 1.5rem;
+    height: 2.5rem;
+    justify-content: center;
+    right: 0px;
+    position: absolute;
+    top: 0px;
+    width: 2.5rem;
+}
+
+.action-hud .reload .border-triangle{
+    border-top: 4rem solid transparent;
+    border-left: 4rem solid transparent;
+    content: "";
+    height: 0;
+    right: 0px;
+    position: absolute;
+    top: 0px;
+    width: 0;
+}
+
+.action-hud .reload span{
+    z-index: 1;
+}
+
+.action-element .reload .border-triangle {
+	/* ADD THEME OPTIONS */
+	border-top-color: var(--ech-mainAction-base-background);
+}
+
+.feature-element .reload .border-triangle {
+    border-top-color: var(--ech-mainAction-hover-background);
+}
+
+.features-container .action-element-title {
+   background: var(--ech-mainAction-hover-background);
+}
+
+.features-container {
+    font-size: 20px;
+}
+
+.features-container span.action-element-title {
+     font-size: 15px; 
+}
+.feature-accordion-title {
+    width: 175px;
+    bottom: 90px;
+    left: -45px;
+    font-weight: normal;
+}
+.features-accordion-content.CoC7 {
+    margin-bottom: 25px;
+}
+
+.portrait-stat-block.player-details {
+    background-color: rgba(0 0 0 / 0.1);
+    background: linear-gradient(181deg, rgba(65,75,85,0.9) 0%, rgba(70,80,90,0.8) 75%, rgba(75,85,95,0) 100%);
+}
+
+ /* .ability-menu {
+    width: 60em;
+}
+.ability-menu ul {
+    column-count: 2;
+    width: 50em;
+}
+.ability-menu ul.ability-toggle {
+    width:375px;
+}  */
+
+.feature-element {
+    background-size: 65%;
+    background-position-y: top;
+}

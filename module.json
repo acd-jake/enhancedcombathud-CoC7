@@ -1,0 +1,62 @@
+{
+    "title": "Argon - Combat HUD (COC7)",
+    "description": "Call of Cthulhu - Seventh Edition System Argon integration",
+    "id": "enhancedcombathud-CoC7",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Acd-Jake",
+            "discord": "Acd-Jake",
+            "flags": {
+                "github": "acd-jake"
+            }
+        }
+    ],
+    "languages": [
+        {
+            "lang": "de",
+            "name": "Deutsch",
+            "path": "languages/de.json"
+        },
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "languages/en.json"
+        }
+    ],
+    "scripts": [],
+    "esmodules": [
+        "scripts/settings.js",
+        "scripts/cocui.js"
+    ],
+    "styles": [
+        "styles/Coc7Custom.css"
+    ],
+    "packs": [],
+    "url": "https://github.com/acd-jake/enhancedcombathud-CoC7",
+    "download": "https://github.com/acd-jake/enhancedcombathud-CoC7/releases/latest/download/enhancedcombathud-CoC7-1.0.0.zip",
+    "readme": "https://github.com/acd-jake/enhancedcombathud-CoC7/README.md",
+    "manifest": "https://github.com/acd-jake/enhancedcombathud-CoC7/releases/latest/download/module.json",
+    "bugs": "https://github.com/acd-jake/enhancedcombathud-CoC7/issues",
+    "allowBugReporter": true,
+      "relationships": {
+        "requires": [
+            {
+                "id": "enhancedcombathud",
+                "type": "module",
+                "compatibility": {}
+            }
+        ],
+        "systems": [
+            {
+                "id": "CoC7",
+                "type": "system",
+                "compatibility": {}
+            }
+        ]
+    },
+    "compatibility": {
+        "minimum": "11",
+        "verified": "11"
+    }
+}
