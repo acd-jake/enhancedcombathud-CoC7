@@ -146,28 +146,28 @@
     },
     "CHARAC": {
       "STR": {
-        "tooltip": "<p>Stärke bemisst die Muskelkraft eines Charakters. Je größer dieser Wert, desto größere Gewichte kann er heben, desto fester kann er sich an Dingen festklammern. Von diesem Attribut hängt auch der Schaden ab, den der Charakter im Nahkampf verursachen kann. Ein Charakter mit ST 0 ist ein Vollinvalide und kann sich nicht aus eigener Kraft erheben.</p>"
+        "tooltip": ""
       },
       "CON": {
-        "tooltip": "<p>Die Konstitution stellt die Lebenskräfte, die Gesundheit und Vitalität eines Charakters dar. Gifte und Krankheiten können sich unmittelbar auf die Konstitution des Charakters auswirken. Investigatoren mit einem hohen Konstitutionswert haben häufig auch mehr Trefferpunkte - Wunden und Angriffe machen ihnen nicht so viel aus. Schwere körperliche Verletzungen und magische Angriffe können das Attribut sinken lassen; der Charakter stirbt, wenn seine Konstitution auf null fällt.</p>."
+        "tooltip": ""
       },
       "SIZ": {
-        "tooltip": "<p>Körpergröße ist ein Kombinationswert, in dem sich Größe und Gewicht widerspiegeln. Um über eine Mauer zu schauen, um sich durch eine schmale Öffnung zu quetschen, oder auch einfach nur, um festzustellen, wessen Kopf am weitesten aus dem Schilf ragt - für all diese Zwecke wird GR herangezogen. Die Körpergröße eines Charakters wird auch verwendet zur Ermittlung von Trefferpunkten, Schadensbonus und Statur. Verlust eines Arms oder Beins kann zu Verlust von GR führen. (Wenngleich die Folgen häufiger auf GE abgewälzt werden.) Folgerichtig wird ein Charakter bei Verlust aller GR-Punkte verschwinden - weiß der Himmel, wohin!</p>"
+        "tooltip": ""
       },
       "DEX": {
-        "tooltip": "<p>Investigatoren mit hoher Geschicklichkeit sind schneller, behänder und gelenkiger. Proben auf GE können gemacht werden, um einen Sturz zu vermeiden, um schneller zu sein als ein Gegner oder um Aufgaben auszuführen, die Feingefühl erfordern. Investigatoren mit GE 0 bewegen sich unkoordiniert und sind zur Ausführung physischer Tätigkeiten vollkommen außerstande.</p><p>Im Kampf handeln Investigatoren mit hoher GE vor denen mit niedriger GE.<p>"
+        "tooltip": ""
       },
       "APP": {
-        "tooltip": "<p>Die Erscheinung bemisst gleichermaßen die körperliche Attraktivität wie auch die Persönlichkeit eines Charakters. Zeitgenossen mit hoher ER können also auch freundliche Menschen sein, die einen sympathischen Eindruck machen, ohne doch in konventionellem Sinne als gutaussehend zu gelten. Investigatoren mit ER 0 sind von wahrhaft abstoßender Hässlichkeit oder zutiefst widerwärtigem Gebaren, mit dem sie überall heftig anecken und Widerwillen erwecken.</p><p>ER kann sehr nützlich im gesellschaftlichen Umgang sein oder wenn man versucht, einen guten Eindruck zu hinterlassen.</p>"
+        "tooltip": ""
       },
       "INT": {
-        "tooltip": "<p>Die Intelligenz stellt das Vermögen eines Charakters dar, zu lernen, sich zu erinnern, Informationen zu analysieren, oder schwierige Denkaufgaben zu lösen. Mit IN 0 verfällt ein Charakter in brabbelnden, sabbelnden Schwachsinn.</p><p>Anhand der Intelligenz wird die Zahl der Fertigkeitspunkte bestimmt (das Produkt aus INx2), die einem neuen Investigator für seine Hobbyfertigkeiten zur Verfügung stehen (siehe Hobbyfertigkeiten.</p><p>Wenn die IN eines Charakters in Widerspruch zu einem anderen Attribut zu stehen scheint, mag dies eine gewisse rollenspielerische Herausforderung darstellen, die dem Charakter jedoch mehr Tiefe verleihen kann. Ein Charakter mit hoher BI und niedriger IN könnte etwa ein pedantischer Oberlehrer sein oder jemand, der sich auf Nebenschauplätzen verausgabt – eine Person also, die zwar um Fakten weiß, aber keinen Sinn für ihre tieferen Zusammenhänge, ihre Bedeutung hat. Umgekehrt könnten hohe IN und niedrige BI grundsätzliche Unwissenheit anzeigen, ohne dass der Charakter deswegen jedoch dumm wäre - etwa ein ungebildeter Bauernbursche, der eben erst in die große Stadt gekommen ist.</p><p>Der Wert für IN ist zugleich auch der Zielwert für Ideenwürfe (siehe Kapitel 5: Das Spielsystem).</p>"
+        "tooltip": ""
       },
       "POW": {
-        "tooltip": "<p>Mana stellt die Willenskraft eines Charakters dar: Je mehr MA man hat, desto besser vermag man Magie zu widerstehen, desto mehr Talent hat man auch für ihre Anwendung. Ein Charakter mit MA 0 ist ziellos wie ein Blatt im Wind, ohne jeglichen Drang oder Fähigkeit zur Selbstbestimmung, und vermag auch keine Magie zu verwenden. Soweit nicht anders angegeben, wird MA im Spielverlauf stets auf Dauer verloren.</p><p>Die anfängliche geistige Stabilität (STA) eines Charakters ist gleich seinem MA. In größerer Ausführlichkeit werden Stabilitätspunkte behandelt in Kapitel 8: Geistige Gesundheit. Das MA gibt auch an, über wie viele „Magiepunkte“ ein Charakter verfügt. Im Unterschied zu MA können diese im Lauf des Spieles nicht nur eingesetzt, sondern auch wiedergewonnen werden. Die Zahl der Magiepunkte eines Charakters entspricht einem Fünftel seines MA (siehe Kapitel 9: Magie).</p><p>Im Normalfall verändert sich das MA von Investigatoren kaum. Wer jedoch tief in die magischen Geheimnisse des Cthulhu-Mythos vordringt, mag Möglichkeiten entdecken, sein MA zu steigern.</p>"
+        "tooltip": ""
       },
       "EDU": {
-        "tooltip": "<p>Bildung kann nicht nur über das formale Faktenwissen eines Charakters Auskunft geben, sondern auch über seinen Bildungsgang. Dabei besagt BI ausschließlich, wie viel Wissen der Charakter behalten hat, und nichts über seine Fähigkeiten, damit auch etwas Sinnvolles anzufangen (siehe dazu: „Intelligenz“). Ein Charakter ohne BI wäre wie ein neugeborener Säugling oder jemand mit vollkommenem Gedächtnisverlust – ohne das geringste Wissen von der Welt, wahrscheinlich höchst neugierig, aber auch leichtgläubig.</p><p>Auf Schulbildung bezogen hat ein Charakter mit BI 60 hat einen Abschluss einer amerikanischen High School, mit BI 70 hat er einige Jahre im College verbracht. Wer BI 80 oder mehr hat, dürfte einen beliebigen akademischen Universitätsstudiengang auf Master-Niveau absolviert haben. Allerdings weist „Bildung“ nicht notwendigerweise auf Erfolg im klassischen Bildungssystem hin; der Charakter könnte auch ein enorm fleißiger, aufmerksamer Autodidakt sein. BI kann also genauso aus der „harten Schule des Lebens“ resultieren!</p><p>BI spielt eine Rolle bei der Bestimmung der Fertigkeitspunkte, die einem neuen Investigator für seine Berufsfertigkeiten zur Verfügung stehen (siehe Berufsfertigkeiten), und entspricht auch direkt dessen anfänglichem Fertigkeitswert in „Muttersprache“. BI wird auch für <strong>Wissenswürfe</strong> verwendet.</p>"
+        "tooltip": ""
       }
     },
     "skillProperties": {
