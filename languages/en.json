@@ -78,6 +78,10 @@
         "name": "Dodge Check",
         "desc": ""
       },
+      "Skills": {
+        "name": "Skills",
+        "desc": "Opens/closes the attribute & skill menu"
+      },
       "AcademicSkills": {
         "name": "Academic Skills",
         "desc": ""
