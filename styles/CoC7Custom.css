@@ -30,28 +30,30 @@
 	border-top-color: var(--ech-mainAction-base-background);
 }
 
-.feature-element .reload .border-triangle {
+.extended-combat-hud .action-hud .feature-element .reload .border-triangle {
     border-top-color: var(--ech-mainAction-hover-background);
 }
 
-.features-container .action-element-title {
+.extended-combat-hud .action-hud .features-container .action-element-title {
    background: var(--ech-mainAction-hover-background);
 }
 
-.features-container {
+.extended-combat-hud .action-hud .features-container {
     font-size: 20px;
 }
 
-.features-container span.action-element-title {
+.extended-combat-hud .action-hud .features-container span.action-element-title {
      font-size: 15px; 
+     text-wrap: pretty;
+    overflow-wrap: anywhere;
 }
-.feature-accordion-title {
+.extended-combat-hud .action-hud .feature-accordion-title {
     width: 175px;
     bottom: 90px;
     left: -45px;
     font-weight: normal;
 }
-.features-accordion-content.CoC7 {
+.extended-combat-hud .action-hud .features-accordion-content.CoC7 {
     margin-bottom: 25px;
 }
 
@@ -71,7 +73,7 @@
     width:375px;
 }  */
 
-.feature-element {
-    background-size: 65%;
-    background-position-y: top;
+.extended-combat-hud .action-hud .features-container .feature-element {
+    background-size: 65% !important;
+    background-position-y: top !important;
 }
