@@ -11,12 +11,14 @@ This module adjusts various Argon features for the Call of Cthulhu 7th Edition s
   -  Clicking on the **sanity** or **luck** score will invoke a corresponding check.
 - **Characteristics**
   - The characteristics of the character are displayed with the three percentile scores for the regular, hard and extreme checks.
+    
     ![image](https://github.com/acd-jake/enhancedcombathud-CoC7/assets/67855941/fcc22990-7cfb-4ae5-a28d-97bb14a7ac4b)
   - Clicking on the name of the characteristic will invoke a regular check and clicking on a percentile score will invoke a check with the corresponding difficulty.
 - **Weapon Sets** have a rudamental Drag&Drop system for weapons.
 - **Tooltips** will display properties for skills.
 - **Item Buttons** for firearms display resources (bullets or charges) in the top left corner and consume them when used. A weapon cylinder is displayed in the top right corner. It can be used to reload or unload a weapon in much the same way as the corresponding icon on the CoC7 character sheet.
 - The **Skill Button** opens an accordion panel with the character's skills. The skills are grouped in a - hopefully - meaningful way.
+  
   ![image](https://github.com/acd-jake/enhancedcombathud-CoC7/assets/67855941/ab3ef84b-3538-406a-bee0-427d5494fbbe)
 
 ## Interaction with other modules (strictly optional)
@@ -27,4 +29,4 @@ If the module [Torch](https://github.com/League-of-Foundry-Developers/torch) is 
 ## Languages:
 The module contains an English and a German translation. If you want additional languages to be supported [let me know](https://github.com/acd-jake/enhancedcombathud-CoC7/issues).
 
-If you have suggestions, questions, or requests for additional features please [let me know](https://github.com/acd-jake/enhancedcombathud-CoC7/issues).
+**If you have suggestions, questions, or requests for additional features please [let me know](https://github.com/acd-jake/enhancedcombathud-CoC7/issues).**
