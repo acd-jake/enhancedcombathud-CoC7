@@ -30,7 +30,7 @@
         "scripts/cocui.js"
     ],
     "styles": [
-        "styles/Coc7Custom.css"
+        "styles/CoC7Custom.css"
     ],
     "packs": [],
     "url": "https://github.com/acd-jake/enhancedcombathud-CoC7",
