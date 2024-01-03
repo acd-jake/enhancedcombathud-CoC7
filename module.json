@@ -16,12 +16,12 @@
         {
             "lang": "de",
             "name": "Deutsch",
-            "path": "languages/de.json"
+            "path": "language/de.json"
         },
         {
             "lang": "en",
             "name": "English",
-            "path": "languages/en.json"
+            "path": "language/en.json"
         }
     ],
     "scripts": [],
