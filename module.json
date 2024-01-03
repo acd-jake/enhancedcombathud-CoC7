@@ -35,8 +35,6 @@
     "packs": [],
     "url": "#{URL}#",
     "download": "#{DOWNLOAD}#",
-    "license": "LICENSE",
-    "readme": "README.md",
     "manifest": "#{MANIFEST}#",
     "bugs": "https://github.com/acd-jake/enhancedcombathud-CoC7/issues",
     "allowBugReporter": true,
