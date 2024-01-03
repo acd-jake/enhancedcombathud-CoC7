@@ -2,7 +2,7 @@
     "title": "Argon - Combat HUD (COC7)",
     "description": "Call of Cthulhu - Seventh Edition System Argon integration",
     "id": "enhancedcombathud-CoC7",
-    "version": "1.0.1",
+    "version": "#{VERSION}#",
     "authors": [
         {
             "name": "Acd-Jake",
@@ -33,10 +33,10 @@
         "styles/CoC7Custom.css"
     ],
     "packs": [],
-    "url": "https://github.com/acd-jake/enhancedcombathud-CoC7",
-    "download": "https://github.com/acd-jake/enhancedcombathud-CoC7/releases/latest/download/enhancedcombathud-CoC7.zip",
+    "url": "#{URL}#",
+    "download": "#{DOWNLOAD}#",
     "readme": "https://github.com/acd-jake/enhancedcombathud-CoC7/README.md",
-    "manifest": "https://github.com/acd-jake/enhancedcombathud-CoC7/releases/latest/download/module.json",
+    "manifest": "#{MANIFEST}#",
     "bugs": "https://github.com/acd-jake/enhancedcombathud-CoC7/issues",
     "allowBugReporter": true,
       "relationships": {
